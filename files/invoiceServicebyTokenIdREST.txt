@@ -1,0 +1,6 @@
+{
+    "billInquiry": {
+        "toakenId": "ewdhfefhfw9092348293402hjdjfkbslkahffjhdsalk239744543",
+        "billingMonth": "01-08-2018"
+    }
+}

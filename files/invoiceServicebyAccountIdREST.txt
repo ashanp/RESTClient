@@ -1,0 +1,6 @@
+{
+    "billInquiry": {
+        "accountId": "6574839201",
+        "billingMonth": "01-08-2018"
+    }
+}

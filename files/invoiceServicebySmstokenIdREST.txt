@@ -1,0 +1,6 @@
+{
+    "billInquiry": {
+        "smstokenId": "ashsd587sadwqeeyjkhjkdsfkd544444$$45566555555%%",
+        "billingMonth": "01-08-2018"
+    }
+}

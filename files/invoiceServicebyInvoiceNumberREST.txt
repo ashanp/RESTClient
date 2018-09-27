@@ -1,0 +1,6 @@
+{
+    "billInquiry": {
+        "invoiceNumber": "INV1638273645",
+        "billingMonth": "01-08-2018"
+    }
+}
